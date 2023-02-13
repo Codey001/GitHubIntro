@@ -4,3 +4,4 @@ oranges
 apples
 mangoes
 cherries
+cereal
