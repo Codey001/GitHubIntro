@@ -5,3 +5,5 @@ apples
 mangoes
 cherries
 cereal
+carrots
+cucumbers
