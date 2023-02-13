@@ -7,4 +7,4 @@ cherries
 cereal
 carrots
 cucumbers
-walnuts
+English walnuts
